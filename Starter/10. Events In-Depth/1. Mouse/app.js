@@ -12,6 +12,7 @@
 // 10. mouseup
 
 let one = document.querySelector(".click");
+
 let two = document.querySelector(".contextmenu");
 let three = document.querySelector(".dblclick");
 let four = document.querySelector(".mousedown");
